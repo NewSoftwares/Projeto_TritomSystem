@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package Classes;
+package br.com.Classes;
 
 /**
  *

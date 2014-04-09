@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package Classes;
+package br.com.Classes;
 
 /**
  *
  * @author Caio
  */
-public class Conexao {
+public class Endereco {
     
 }
