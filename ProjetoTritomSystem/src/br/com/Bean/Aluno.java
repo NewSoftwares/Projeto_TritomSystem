@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package br.com.Classes;
+package br.com.Bean;
 
 /**
  *
  * @author Caio
  */
-public class Endereco {
+public class Aluno {
     
 }

@@ -1,4 +1,4 @@
-package br.com.ConexaoBanco;
+package br.com.DAO;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
