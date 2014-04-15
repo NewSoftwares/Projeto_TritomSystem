@@ -10,6 +10,6 @@ package br.com.Bean;
  *
  * @author Caio
  */
-public class Professor {
+public class AlunoBean {
     
 }
